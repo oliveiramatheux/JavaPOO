@@ -1,6 +1,6 @@
 # Projeto Final POO
 
-#### CRUD de informações e persistência de dasdos em arquivos .txt
+#### CRUD e persistência de dados em arquivos .txt
 
 - 💬 Descrição e objetivo: Ajudar pessoas que estão aprendendo Java com POO.
 
@@ -22,13 +22,13 @@
 ### Pré-Requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas: 
-[JavaJDK](https://www.oracle.com/java/technologies/downloads/).<br>
+[Java JDK](https://www.oracle.com/java/technologies/downloads/) preferência para versão 14 para cima.<br>
 Além disto é bom ter um editor para trabalhar com o código como o [IntelliJ](https://www.jetbrains.com/pt-br/idea/).
 
 ### 🎲 Configurações
 
 ```bash
-# Instalar o java JDK na sua máquina
+# Instalar o java JDK na sua máquina preferência para versão 14 para cima
 # Configurar o projeto para utilizar o JDK
 # Ir no arquivo delegação e colocar o caminho do arquivo para a sua máquina no lugar especificado.
 # Executar o arquivo Delegação class main

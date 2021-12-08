@@ -1,0 +1,10 @@
+.idea
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Matheus Oliveira\Documents\Projetos-Java\projetospuc\src\poo_projetoFinal\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+out
